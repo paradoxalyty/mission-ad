@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/paradoxalyty/mission-ad/issues"
   },
-  "homepage": "https://github.com/paradoxalyty/mission-ad#readme",
+  "homepage": "https://github.com/paradoxalyty/mission-ad",
   "devDependencies": {
     "browser-sync": "^2.27.5",
     "del": "^6.0.0",
