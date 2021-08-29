@@ -1,2 +1,2 @@
 # mission-ad
-SCSS, Gulp, Bootstrap
+SCSS, Gulp, Bootstrap, Mobile First
